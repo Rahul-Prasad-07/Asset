@@ -20,6 +20,10 @@
 
 ![mini-menu-outline](https://github.com/Rahul-Prasad-07/Asset/assets/99068989/d60a4743-df90-49a8-b2e4-3c999c88552e)
 
+
+![Actions1 0](https://github.com/Rahul-Prasad-07/Asset/assets/99068989/3f6f94a8-0413-485d-b8e2-910d4232d77d)
+
+
 ## Assets Image
 
 ![Property 1=solana](https://github.com/Rahul-Prasad-07/Asset/assets/99068989/ad175bb1-bcda-41e3-98f6-08ed07d3f617)
