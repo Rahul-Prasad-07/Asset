@@ -26,6 +26,12 @@
 
 ## Assets Image
 
+![type=dot](https://github.com/Rahul-Prasad-07/Asset/assets/99068989/4f738951-e3d6-4346-98d5-2d2b3e12868e)
+
+
+![type=usdt](https://github.com/Rahul-Prasad-07/Asset/assets/99068989/a8f5273f-1aab-4b27-ad66-6a9c17c3dfa2)
+
+
 ![Property 1=solana](https://github.com/Rahul-Prasad-07/Asset/assets/99068989/ad175bb1-bcda-41e3-98f6-08ed07d3f617)
 
 
