@@ -48,3 +48,18 @@
 ![Property 1=brise](https://github.com/Rahul-Prasad-07/Asset/assets/99068989/85d71dcb-39da-4018-a184-16a8acb98db9)
 
 ![Property 1=Variant7](https://github.com/Rahul-Prasad-07/Asset/assets/99068989/cceafff8-6ffc-4595-9879-1839c85d4b4b)
+
+## Transact
+
+
+![Send](https://github.com/Rahul-Prasad-07/Asset/assets/99068989/159a9726-1072-4451-b217-15740d0bfa1c)
+
+![Scan](https://github.com/Rahul-Prasad-07/Asset/assets/99068989/ba76e555-8058-4a9b-a996-7f69bfa19959)
+
+![Sell](https://github.com/Rahul-Prasad-07/Asset/assets/99068989/cc90b6a0-8694-435d-a8a6-60e938057b40)
+
+![Recieve](https://github.com/Rahul-Prasad-07/Asset/assets/99068989/38337cea-1ce3-4127-8e5a-c08a5d3a581c)
+
+![Buy](https://github.com/Rahul-Prasad-07/Asset/assets/99068989/fb102689-f572-4a18-8ab7-2fb919985157)
+
+
